@@ -1,0 +1,91 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1482935232013">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1482938157646">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/omg-events-summary/main.py" timestamp="1482938155327">
+        <mark key="'" line="5" column="13" />
+        <mark key="[" line="47" column="54" />
+        <mark key="]" line="47" column="54" />
+        <mark key="m" line="28" column="53" />
+        <mark key="." line="47" column="54" />
+        <mark key="^" line="47" column="54" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="4" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="28" column="53" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="1" column="62" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="27" column="49" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="5" column="13" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>27017</text>
+      </register>
+      <register name="-" type="4">
+        <text>27017</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBtb25nb19jbGllbnQgPSBweW1vbmdvLk1vbmdvQ2xpZW50KCcxNzIuMzEuMTEuMzQ6MjcwMTcnLCBzZXJ2ZXJTZWxlY3Rpb25UaW1lb3V0TVM9MTUwMCkK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZGVmIGR1bW15KG51bT0yKToKICAgIHRpbWUuc2xlZXAocmFuZG9tKCkqNCkKICAgIHJldHVybiBudW0KCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
