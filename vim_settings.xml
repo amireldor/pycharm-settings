@@ -3,10 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1482935232013">
+      <file name="/Dummy.txt" timestamp="1482971356854">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1482938157646">
+      <file name="/Python Console" timestamp="1482970876400">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1482970448848">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/omg-events-summary/main.py" timestamp="1482938155327">
@@ -17,6 +20,14 @@
         <mark key="." line="47" column="54" />
         <mark key="^" line="47" column="54" />
       </file>
+      <file name="$USER_HOME$/Desktop/py with watch/main.py" timestamp="1482971334561">
+        <mark key="'" line="39" column="4" />
+        <mark key="[" line="10" column="28" />
+        <mark key="m" line="22" column="12" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="4" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
@@ -25,56 +36,85 @@
       <jump line="1" column="62" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="27" column="49" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="5" column="13" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="18" column="18" filename="$USER_HOME$/Desktop/py with watch/main.py" />
+      <jump line="20" column="15" filename="$USER_HOME$/Desktop/py with watch/main.py" />
+      <jump line="2" column="20" filename="$USER_HOME$/Desktop/py with watch/main.py" />
+      <jump line="21" column="58" filename="$USER_HOME$/Desktop/py with watch/main.py" />
+      <jump line="9" column="30" filename="$USER_HOME$/Desktop/py with watch/main.py" />
+      <jump line="33" column="34" filename="$USER_HOME$/Desktop/py with watch/main.py" />
+      <jump line="10" column="43" filename="$USER_HOME$/Desktop/py with watch/main.py" />
+      <jump line="24" column="32" filename="$USER_HOME$/Desktop/py with watch/main.py" />
+      <jump line="27" column="17" filename="$USER_HOME$/Desktop/py with watch/main.py" />
+      <jump line="0" column="9" filename="$USER_HOME$/Desktop/py with watch/main.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Desktop/py with watch/main.py" />
+      <jump line="32" column="4" filename="$USER_HOME$/Desktop/py with watch/main.py" />
+      <jump line="22" column="12" filename="$USER_HOME$/Desktop/py with watch/main.py" />
+      <jump line="28" column="4" filename="$USER_HOME$/Desktop/py with watch/main.py" />
+      <jump line="25" column="25" filename="$USER_HOME$/Desktop/py with watch/main.py" />
+      <jump line="40" column="46" filename="$USER_HOME$/Desktop/py with watch/main.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/Desktop/py with watch/main.py" />
+      <jump line="39" column="4" filename="$USER_HOME$/Desktop/py with watch/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>27017</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>27017</text>
+        <text encoding="base64">IGRpcmVjdG9yeQ==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtb25nb19jbGllbnQgPSBweW1vbmdvLk1vbmdvQ2xpZW50KCcxNzIuMzEuMTEuMzQ6MjcwMTcnLCBzZXJ2ZXJTZWxlY3Rpb25UaW1lb3V0TVM9MTUwMCkK</text>
+      <register name="/" type="4">
+        <text>logging</text>
+      </register>
+      <register name="0" type="4">
+        <text>genscripts_dir</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGRpcmVjdG9yeSA9ICdnZW5zY3JpcHRzJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjIGxvZ2dpbmcuZGVidWcoJ3NwZWMge30ge30nLmZvcm1hdChzcGVjLCBtb2R1bGVfbmFtZSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
+        <text encoding="base64">ICAgICAgICAjIHNwZWMgPSBpbXBvcnRsaWIudXRpbC5zcGVjX2Zyb21fZmlsZV9sb2NhdGlvbihtb2R1bGVfbmFtZSwgZXZlbnQuc3JjX3BhdGgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmRlYnVnKG1vZHVsZV9uYW1lKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGR1bW15KG51bT0yKToKICAgIHRpbWUuc2xlZXAocmFuZG9tKCkqNCkKICAgIHJldHVybiBudW0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnYW1pcicsIGdlbnNjcmlwdHMuYW1pci5nZW5lcmF0ZSgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>logging</last-search>
+      <last-offset />
+      <last-pattern>logging</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search>
+        <entry>logging</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
@@ -85,6 +125,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
