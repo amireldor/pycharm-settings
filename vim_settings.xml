@@ -9,13 +9,13 @@
       <file name="/Python Console" timestamp="1482938157646">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/omg-events-summary/main.py" timestamp="1483030203437">
-        <mark key="'" line="74" column="12" />
-        <mark key="[" line="74" column="12" />
-        <mark key="m" line="45" column="53" />
-        <mark key="]" line="74" column="23" />
-        <mark key="^" line="74" column="23" />
-        <mark key="." line="74" column="23" />
+      <file name="$USER_HOME$/repos/omg-events-summary/main.py" timestamp="1483032086819">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="79" column="42" />
+        <mark key="m" line="46" column="53" />
+        <mark key="]" line="79" column="40" />
+        <mark key="^" line="79" column="40" />
+        <mark key="." line="79" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -41,19 +41,20 @@
       <jump line="79" column="4" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="64" column="19" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="72" column="12" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>print</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>print</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAoIiszMCIsICJOZXctWW9yayIpOiB7IlN0YXJ0VFUiOiB7IiRndCI6IGRhdGV0aW1lLm5vdygpfSwgIkVuZFRVIjogeyIkbHQiOiBkYXRldGltZS5ub3coKSArIHRpbWVkZWx0YShkYXlzPTMwKX0sICoqdmVudWVfcXVlcmllc1snTmV3LVlvcmsnXX0sCg==</text>
+        <text encoding="base64">ICAgIGNvbHVtbnMgPSAoIklzcmFlbCIsICJUZWwtQXZpdiIsICJVU0EiLCAiTmV3LVlvcmsiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgK</text>
