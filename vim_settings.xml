@@ -6,16 +6,16 @@
       <file name="/Dummy.txt" timestamp="1482935232013">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1482938157646">
+      <file name="/Python Console" timestamp="1483275543880">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/omg-events-summary/main.py" timestamp="1483273198441">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="79" column="42" />
-        <mark key="m" line="46" column="53" />
-        <mark key="]" line="79" column="40" />
-        <mark key="^" line="79" column="40" />
-        <mark key="." line="79" column="40" />
+      <file name="$USER_HOME$/repos/omg-events-summary/main.py" timestamp="1483275532172">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="62" column="8" />
+        <mark key="m" line="49" column="53" />
+        <mark key="]" line="62" column="8" />
+        <mark key="." line="62" column="8" />
+        <mark key="^" line="62" column="46" />
       </file>
     </filemarks>
     <jumps>
@@ -35,13 +35,15 @@
       <jump line="40" column="10" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="1" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="43" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="71" column="12" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="78" column="4" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="42" column="37" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="79" column="4" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="64" column="19" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="72" column="12" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="45" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="55" column="8" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -51,48 +53,48 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>sheet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbHVtbnMgPSAoIklzcmFlbCIsICJUZWwtQXZpdiIsICJVU0EiLCAiTmV3LVlvcmsiKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuY29sdW1ucyA9ICgiSXNyYWVsIiwgIlRlbC1Bdml2IiwgIlVTQSIsICJOZXctWW9yayIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjb2x1bW5zID0gKCJUZWwtQXZpdiIsICJJc3JhZWwiLCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJIaSEiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnV0dXJlc19mb3JfdG90YWwgPSB7fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuZGVidWcoIlJ1bm5pbmcgcXVlcnkgJyciLmZvcm1hdChxdWVyeSkpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuZGVidWcoIlJ1bm5pbmcgcXVlcnkgJyciLmZvcm1hdChxdWVyeSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjb3VudAo=</text>
+        <text encoding="base64">Ogo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjdXJzb3IuY291bnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICB3aXRoIFRocmVhZFBvb2xFeGVjdXRvcihtYXhfd29ya2Vycz0zKSBhcyBleGVjdXRvcjoKICAgICAgICAgICAgbG9nZ2luZy5pbmZvKCJTdGFydGluZyBxdWVyeSB0aHJlYWRzIikKICAgICAgICAgICAgbW9uZ29fY2xpZW50ID0gcHltb25nby5Nb25nb0NsaWVudCgnMTcyLjMxLjExLjEzNCcsIHNlcnZlclNlbGVjdGlvblRpbWVvdXRNUz0xNTAwKQogICAgICAgICAgICBldmVudF9jb2xsZWN0aW9uID0gbW9uZ29fY2xpZW50Lllvb3NoREIuRXZlbnRzCgogICAgICAgICAgICBjb2x1bW5zID0gKCJUZWwtQXZpdiIsICJJc3JhZWwiLCkKICAgICAgICAgICAgZnV0dXJlc19mb3JfdG90YWwgPSB7ZXhlY3V0b3Iuc3VibWl0KGdldF9mcm9tX21vbmdvLCBjb2xsZWN0aW9uPWV2ZW50X2NvbGxlY3Rpb24sIHF1ZXJ5X3R5cGU9cXVlcnlfdHlwZXNbMF0sIGxvY2F0aW9uPWNvbCk6IGNvbCBmb3IgY29sIGluIGNvbHVtbnN9CiAgICAgICAgICAgICMgZnV0dXJlc19mb3JfMzAgPSB7ZXhlY3V0b3Iuc3VibWl0KGdldF9mcm9tX21vbmdvLCBjb2xsZWN0aW9uPWV2ZW50X2NvbGxlY3Rpb24sIHF1ZXJ5X3R5cGU9cXVlcnlfdHlwZXNbMV0sIGxvY2F0aW9uPWNvbCk6IGNvbCBmb3IgY29sIGluIGNvbHVtbnN9CiAgICAgICAgICAgIGZ1dHVyZXNfZm9yXzMwID0ge30KCiAgICAgICAgICAgIGxvZ2dpbmcuaW5mbygiV2FpdGluZyBmb3IgdGFza3MgdG8gcmV0dXJuLi4uIikKICAgICAgICAgICAgZm9yIGZ1dHVyZSBpbiBhc19jb21wbGV0ZWQoeyoqZnV0dXJlc19mb3JfdG90YWwsICoqZnV0dXJlc19mb3JfMzB9KToKICAgICAgICAgICAgICAgIHF1ZXJ5X3R5cGUsIGxvY2F0aW9uLCByZXN1bHQgPSBmdXR1cmUucmVzdWx0KCkKICAgICAgICAgICAgICAgIGxvZ2dpbmcuaW5mbygiUmVzdWx0IGZvciAoe30sIHt9KToge30iLmZvcm1hdChxdWVyeV90eXBlLCBsb2NhdGlvbiwgcmVzdWx0KSkKCiAgICAgICAgICAgIGxvZ2dpbmcuaW5mbygiRG9uZSB3aXRoIHRocmVhZHMiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSByYW5kb20gaW1wb3J0IHJhbmRvbQo=</text>
+        <text encoding="base64">ICAgIGRlZiBwcmVwYXJlX3NoZWV0KHNlbGYpOgogICAgICAgIHNlbGYuc2hlZXQuY2VsbChyb3c9MSwgY29sdW1uPTEpLnZhbHVlID0gIlRpbWVzdGFtcCIKICAgICAgICBzZWxmLnNoZWV0LmNlbGwocm93PTEsIGNvbHVtbj1zZWxmLmNvbHNfb2Zmc2V0X3RvdGFsKS52YWx1ZSA9ICJUb3RhbCBFdmVudHMiCiAgICAgICAgc2VsZi5zaGVldC5jZWxsKHJvdz0xLCBjb2x1bW49c2VsZi5jb2xzX29mZnNldF8zMCkudmFsdWUgPSAiKzMwIERheXMgRXZlbnRzIgogICAgICAgIGZvciBpbmRleCwgY29sIGluIGVudW1lcmF0ZShzZWxmLmNvbHVtbnMpOgogICAgICAgICAgICBzZWxmLnNoZWV0LmNlbGwocm93PTIsIGNvbHVtbj1zZWxmLmNvbHNfb2Zmc2V0X3RvdGFsICsgaW5kZXgpLnZhbHVlID0gY29sCiAgICAgICAgICAgIHNlbGYuc2hlZXQuY2VsbChyb3c9MiwgY29sdW1uPXNlbGYuY29sc19vZmZzZXRfMzAgKyBpbmRleCkudmFsdWUgPSBjb2wKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>sheet</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
-      <last-replace>USA</last-replace>
-      <last-substitute>New-York</last-substitute>
+      <last-pattern>sheet</last-pattern>
+      <last-replace>self.sheet</last-replace>
+      <last-substitute>sheet</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -100,11 +102,13 @@
       <history-search>
         <entry>New-York</entry>
         <entry>print</entry>
+        <entry>sheet</entry>
       </history-search>
       <history-cmd>
         <entry>s,New-York,Israel,g</entry>
         <entry>s,New-York,Tel-Aviv,g</entry>
         <entry>s/New-York/USA/g</entry>
+        <entry encoding="base64">JzwsJz5zLHNoZWV0LHNlbGYuc2hlZXQsZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
