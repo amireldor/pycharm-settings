@@ -9,10 +9,11 @@
       <file name="/Python Console" timestamp="1483280382341">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/omg-events-summary/main.py" timestamp="1483610276479">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/repos/omg-events-summary/main.py" timestamp="1483624806917">
+        <mark key="'" line="60" column="7" />
+        <mark key="[" line="12" column="65" />
+        <mark key="]" line="12" column="65" />
+        <mark key="." line="12" column="65" />
       </file>
     </filemarks>
     <jumps>
@@ -54,46 +55,53 @@
       <jump line="79" column="73" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="88" column="161" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="80" column="54" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="61" column="7" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAoIkJhZCIsICJOZXctWW9yayIpOiB7IlN0YXJ0VFUiOiB7IiRndCI6IGRhdGV0aW1lLm5vdygpfSwgIkVuZFRVIjogeyIkbHQiOiBkYXRldGltZS5ub3coKSArIHRpbWVkZWx0YShkYXlzPTMwKX0sICoqdmVudWVfcXVlcmllc1snTmV3LVlvcmsnXSB9LAo=</text>
+      <register name="&quot;" type="4">
+        <text>+</text>
       </register>
       <register name="-" type="4">
-        <text>+30</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>cols</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAoIiszMCIsICJOZXctWW9yayIpOiB7IlN0YXJ0VFUiOiB7IiRndCI6IGRhdGV0aW1lLm5vdygpfSwgIkVuZFRVIjogeyIkbHQiOiBkYXRldGltZS5ub3coKSArIHRpbWVkZWx0YShkYXlzPTMwKX0sICoqdmVudWVfcXVlcmllc1snTmV3LVlvcmsnXSB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAiSXNyYWVsIjogeyAiVmVudWUuQ291bnRyeSI6IHsiJGluIjogWydpbCcsICdpc3JhZWwnXX0gfSwKICAgICAgICAiVVNBIjogIHsgIlZlbnVlLkNvdW50cnkiOiB7IiRpbiI6IFsndXMnLCByZS5jb21waWxlKCd1bml0ZWQuK3N0YXRlcycpXX0gfSwKICAgICAgICAiVGVsLUF2aXYiOiB7ICJWZW51ZS5DaXR5IjogInRlbCBhdml2IiB9LAogICAgICAgICJOZXctWW9yayI6IHsgIlZlbnVlLkNpdHkiOiB7IiRpbiI6IFsibnkiLCAibmV3IHlvcmsiXX0gfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAoIkJhZCIsICJOZXctWW9yayIpOiB7IlN0YXJ0VFUiOiB7IiRndCI6IGRhdGV0aW1lLm5vdygpfSwgIkVuZFRVIjogeyIkbHQiOiBkYXRldGltZS5ub3coKSArIHRpbWVkZWx0YShkYXlzPTMwKX0sICoqdmVudWVfcXVlcmllc1snTmV3LVlvcmsnXSB9LAo=</text>
+        <text encoding="base64">ICAgICJUZWwtQXZpdiI6IAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0b3QK</text>
+      <register name="2" type="4">
+        <text>&quot;&quot;&quot;
+db.getCollection('Events').find({
+    StartTU: {$gt: new Date(2016, 10, 1)},
+    'Venue.Country': {$in: ['il', 'israel']}
+}, {
+    StartTU: 1
+}).count()&quot;&quot;&quot;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAjIwogICAgICAgICMgc2VsZi5jb2x1bW5zID0gc2VsZi5jb2x1bW5zWzBdICAjIGRlYnVnCiAgICAgICAgIyMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zaGVldC5jZWxsKHJvdz0xLCBjb2x1bW49cXVlcnlfdHlwZVsxXSkudmFsdWUgPSBxdWVyeV90eXBlWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnV0dXJlcyA9IHtleGVjdXRvci5zdWJtaXQoZ2V0X2Zyb21fbW9uZ28sIHF1ZXJ5X3BhcmFtZXRlcnMpIGZ9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zaGVldC5jZWxsKHJvdz0xLCBjb2x1bW49cXVlcnlfdHlwZVsxXSkudmFsdWUgPSBxdWVyeV90eXBlWzBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0b3QK</text>
+        <text encoding="base64">ICAgICAgICAoIkJhZCIsICJOZXctWW9yayIpOiB7IlN0YXJ0VFUiOiB7IiRndCI6IGRhdGV0aW1lLm5vdygpfSwgIkVuZFRVIjogeyIkbHQiOiBkYXRldGltZS5ub3coKSArIHRpbWVkZWx0YShkYXlzPTMwKX0sICoqdmVudWVfcXVlcmllc1snTmV3LVlvcmsnXSB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVlcnlfbmFtZSwgCg==</text>
+        <text encoding="base64">ICAgICAgICB0b3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNoZWV0Lm1lcmdlX2NlbGxzKCd7fTE6e30xJy5mb3JtYXQoZ2V0X2NvbHVtbl9sZXR0ZXIoc2VsZi5xdWVyeV90eXBlc1swXVsxXSksIGdldF9jb2x1bW5fbGV0dGVyKHNlbGYucXVlcnlfdHlwZXNbMF1bMV0gKyBsZW4oc2VsZi5jb2x1bW5zKSkpKQogICAgICAgIHNlbGYuc2hlZXQubWVyZ2VfY2VsbHMoJ3t9MTp7fTEnLmZvcm1hdChnZXRfY29sdW1uX2xldHRlcihzZWxmLnF1ZXJ5X3R5cGVzWzFdWzFdKSwgZ2V0X2NvbHVtbl9sZXR0ZXIoc2VsZi5xdWVyeV90eXBlc1sxXVsxXSArIGxlbihzZWxmLmNvbHVtbnMpKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
