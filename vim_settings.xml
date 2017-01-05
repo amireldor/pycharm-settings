@@ -3,17 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1482935232013">
+      <file name="/Dummy.txt" timestamp="1483626953135">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1483280382341">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/omg-events-summary/main.py" timestamp="1483624806917">
-        <mark key="'" line="60" column="7" />
-        <mark key="[" line="12" column="65" />
-        <mark key="]" line="12" column="65" />
-        <mark key="." line="12" column="65" />
+      <file name="$USER_HOME$/repos/omg-events-summary/main.py" timestamp="1483628343516">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="12" column="35" />
+        <mark key="." line="12" column="35" />
+        <mark key="^" line="12" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -28,15 +26,12 @@
       <jump line="33" column="8" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="38" column="52" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="5" column="13" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="40" column="10" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="1" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="78" column="4" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="42" column="37" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="72" column="12" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="47" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="55" column="8" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="71" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="43" column="3" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="77" column="8" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="2" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
@@ -52,65 +47,63 @@
       <jump line="67" column="25" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="74" column="138" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="75" column="138" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="79" column="73" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="88" column="161" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="80" column="54" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="61" column="7" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="45" column="55" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="40" column="8" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="71" column="69" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="80" column="43" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>cols</text>
+        <text>pairs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiSXNyYWVsIjogeyAiVmVudWUuQ291bnRyeSI6IHsiJGluIjogWydpbCcsICdpc3JhZWwnXX0gfSwKICAgICAgICAiVVNBIjogIHsgIlZlbnVlLkNvdW50cnkiOiB7IiRpbiI6IFsndXMnLCByZS5jb21waWxlKCd1bml0ZWQuK3N0YXRlcycpXX0gfSwKICAgICAgICAiVGVsLUF2aXYiOiB7ICJWZW51ZS5DaXR5IjogInRlbCBhdml2IiB9LAogICAgICAgICJOZXctWW9yayI6IHsgIlZlbnVlLkNpdHkiOiB7IiRpbiI6IFsibnkiLCAibmV3IHlvcmsiXX0gfSwK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcXVlcnkgaW4gc2VsZi5kYXRhX3F1ZXJpZXMua2V5cygpOgogICAgICAgICAgICBmb3IgdmVudWUgaW4gc2VsZi52ZW51ZV9xdWVyaWVzLmtleXMoKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJUZWwtQXZpdiI6IAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBjb3VudAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>&quot;&quot;&quot;
-db.getCollection('Events').find({
-    StartTU: {$gt: new Date(2016, 10, 1)},
-    'Venue.Country': {$in: ['il', 'israel']}
-}, {
-    StartTU: 1
-}).count()&quot;&quot;&quot;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvdW50ID0gMQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIwogICAgICAgICMgc2VsZi5jb2x1bW5zID0gc2VsZi5jb2x1bW5zWzBdICAjIGRlYnVnCiAgICAgICAgIyMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50ID0gZnV0dXJlLnJlc3VsdCgpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnV0dXJlcyA9IHtleGVjdXRvci5zdWJtaXQoZ2V0X2Zyb21fbW9uZ28sIHF1ZXJ5X3BhcmFtZXRlcnMpIGZ9Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIDE6IChxdWVyeSwgdmVudWUpLgogICAgICAgICMgMjogKHF1ZXJ5LCB2ZW51ZSkuCiAgICAgICAgIyAzOiAocXVlcnksIHZlbnVlKS4KICAgICAgICAjIDQ6IChxdWVyeSwgdmVudWUpLgogICAgICAgICMgLi4uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAoIkJhZCIsICJOZXctWW9yayIpOiB7IlN0YXJ0VFUiOiB7IiRndCI6IGRhdGV0aW1lLm5vdygpfSwgIkVuZFRVIjogeyIkbHQiOiBkYXRldGltZS5ub3coKSArIHRpbWVkZWx0YShkYXlzPTMwKX0sICoqdmVudWVfcXVlcmllc1snTmV3LVlvcmsnXSB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAgICAgcXVlcnlfdHlwZSwgbG9jYXRpb24sIHJlc3VsdCA9IGZ1dHVyZS5yZXN1bHQoKQogICAgICAgICAgICAjCiAgICAgICAgICAgICMgICAgIGNvbF9pbmRleCA9IG5leHQoeCBmb3IgeCwgY29sIGluIGVudW1lcmF0ZShzZWxmLmNvbHVtbnMpIGlmIGNvbCA9PSBsb2NhdGlvbikKICAgICAgICAgICAgIyAgICAgdHlwZV9jb2wgPSBuZXh0KHQgZm9yIHQgaW4gc2VsZi5xdWVyeV90eXBlcyBpZiB0WzBdID09IHF1ZXJ5X3R5cGUpCiAgICAgICAgICAgICMgICAgIHJvdyA9IGNvbF9pbmRleAogICAgICAgICAgICAjICAgICBjb2xfb2Zmc2V0ID0gdHlwZV9jb2xbMV0KICAgICAgICAgICAgIyAgICAgc2VsZi5zaGVldC5jZWxsKHJvdz0yLCBjb2x1bW49MSkudmFsdWUgPSBkYXRldGltZS5ub3coKQogICAgICAgICAgICAjICAgICBzZWxmLnNoZWV0LmNlbGwocm93PTIsIGNvbHVtbj1jb2xfb2Zmc2V0KzEpLnZhbHVlID0gcmVzdWx0CiAgICAgICAgICAgICMKICAgICAgICAgICAgIyAgICAgbG9nZ2luZy5pbmZvKCJSZXN1bHQgZm9yICh7fSwge30pOiB7fSIuZm9ybWF0KHF1ZXJ5X3R5cGUsIGxvY2F0aW9uLCByZXN1bHQpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0b3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGZ1dHVyZS5yZXN1bHQoKSwgY29sdW1uKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cols</last-search>
+      <last-search>pairs</last-search>
       <last-offset />
-      <last-pattern>cols</last-pattern>
+      <last-pattern>pairs</last-pattern>
       <last-replace>total</last-replace>
       <last-substitute>title</last-substitute>
       <last-dir>1</last-dir>
@@ -129,6 +122,7 @@ db.getCollection('Events').find({
         <entry>col[</entry>
         <entry>self.columns</entry>
         <entry>cols</entry>
+        <entry>pairs</entry>
       </history-search>
       <history-cmd>
         <entry>s,New-York,Israel,g</entry>
@@ -139,6 +133,7 @@ db.getCollection('Events').find({
         <entry>s,title,30</entry>
         <entry>s,30,title</entry>
         <entry>s/title/total/g</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -159,6 +154,9 @@ db.getCollection('Events').find({
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
