@@ -3,7 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/citymouse_31_03_2016_0_jerusalem.json" timestamp="1484153017924">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
       <file name="/Dummy.txt" timestamp="1483626953135">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" timestamp="1484152842316">
+        <mark key="'" line="66" column="42" />
+      </file>
+      <file name="/a.dummy" timestamp="1484153021911">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/omg-events-summary/main.py" timestamp="1483628343516">
@@ -55,6 +67,7 @@
       <jump line="71" column="69" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="80" column="43" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="83" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="66" column="42" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -64,7 +77,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>pairs</text>
+        <text>crea</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgcXVlcnkgaW4gc2VsZi5kYXRhX3F1ZXJpZXMua2V5cygpOgogICAgICAgICAgICBmb3IgdmVudWUgaW4gc2VsZi52ZW51ZV9xdWVyaWVzLmtleXMoKToK</text>
@@ -101,9 +114,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pairs</last-search>
+      <last-search>crea</last-search>
       <last-offset />
-      <last-pattern>pairs</last-pattern>
+      <last-pattern>crea</last-pattern>
       <last-replace>total</last-replace>
       <last-substitute>title</last-substitute>
       <last-dir>1</last-dir>
@@ -123,6 +136,8 @@
         <entry>self.columns</entry>
         <entry>cols</entry>
         <entry>pairs</entry>
+        <entry>creator</entry>
+        <entry>crea</entry>
       </history-search>
       <history-cmd>
         <entry>s,New-York,Israel,g</entry>
@@ -157,6 +172,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
