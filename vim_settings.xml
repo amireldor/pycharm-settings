@@ -21,12 +21,12 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" timestamp="1484487751947">
-        <mark key="'" line="43" column="24" />
-        <mark key="[" line="96" column="80" />
-        <mark key="]" line="97" column="7" />
-        <mark key="." line="97" column="7" />
-        <mark key="^" line="97" column="7" />
+      <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" timestamp="1484492178880">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="27" />
+        <mark key="." line="22" column="27" />
+        <mark key="^" line="23" column="54" />
       </file>
       <file name="/a.dummy" timestamp="1484487590860">
         <mark key="[" line="0" column="0" />
@@ -87,46 +87,47 @@
       <jump line="66" column="42" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
       <jump line="29" column="8" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
       <jump line="42" column="24" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWwgPSBTZWxlY3RvcihyZXNwb25zZSkK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaXN0aW5nc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcXVlcnkgaW4gc2VsZi5kYXRhX3F1ZXJpZXMua2V5cygpOgogICAgICAgICAgICBmb3IgdmVudWUgaW4gc2VsZi52ZW51ZV9xdWVyaWVzLmtleXMoKToK</text>
+      <register name="0" type="4">
+        <text>kwargs.get('start_url')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWwgPSBTZWxlY3RvcihyZXNwb25zZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjc2VsZi5sb2coImhvdXJzICVkIiAlIGxlbihob3VycykpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjc2VsZi5sb2coImRlc2NyaXB0aW9uICVzIiAlIGRlc2NyaXB0aW9uKQo=</text>
+        <text encoding="base64">ICAgIGkgICBpZiAoa3cK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjc2VsZi5sb2coImhvdXJzICVkIiAlIGxlbihob3VycykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjc2VsZi5sb2coImRlc2NyaXB0aW9uICVzIiAlIGRlc2NyaXB0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjc2VsZi5sb2coIlZpc2l0ZWQgJXMiICUgcmVzcG9uc2UudXJsKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWwgPSBTZWxlY3RvcihyZXNwb25zZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAjc2VsZi5sb2coImhvdXJzICVkIiAlIGxlbihob3VycykpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICNzZWxmLmxvZygicmVxdWVzdGluZyAlcyIgJSBpdGVtWydldmVudHVybCddKQo=</text>
+        <text encoding="base64">ICAgICAgICAjc2VsZi5sb2coImRlc2NyaXB0aW9uICVzIiAlIGRlc2NyaXB0aW9uKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -168,8 +169,8 @@
         <entry>s,title,30</entry>
         <entry>s,30,title</entry>
         <entry>s/title/total/g</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
