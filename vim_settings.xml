@@ -12,13 +12,17 @@
       <file name="/Dummy.txt" timestamp="1483626953135">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" timestamp="1484155021183">
-        <mark key="'" line="65" column="42" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="/Python Console" timestamp="1484486914647">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1484153021911">
+      <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" timestamp="1484487672878">
+        <mark key="'" line="43" column="24" />
+        <mark key="[" line="92" column="40" />
+        <mark key="]" line="92" column="7" />
+        <mark key="." line="92" column="7" />
+        <mark key="^" line="92" column="7" />
+      </file>
+      <file name="/a.dummy" timestamp="1484487590860">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/Runner/Runner/Program.cs" timestamp="1484154582182">
@@ -75,58 +79,60 @@
       <jump line="80" column="43" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="83" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="66" column="42" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
+      <jump line="29" column="8" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
+      <jump line="42" column="24" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWwgPSBTZWxlY3RvcihyZXNwb25zZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>crea</text>
+        <text encoding="base64">XDxsaXN0aW5nc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgcXVlcnkgaW4gc2VsZi5kYXRhX3F1ZXJpZXMua2V5cygpOgogICAgICAgICAgICBmb3IgdmVudWUgaW4gc2VsZi52ZW51ZV9xdWVyaWVzLmtleXMoKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWwgPSBTZWxlY3RvcihyZXNwb25zZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAjc2VsZi5sb2coImhvdXJzICVkIiAlIGxlbihob3VycykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjb3VudAo=</text>
+        <text encoding="base64">ICAgICAgICAjc2VsZi5sb2coImRlc2NyaXB0aW9uICVzIiAlIGRlc2NyaXB0aW9uKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvdW50ID0gMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50ID0gZnV0dXJlLnJlc3VsdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAjc2VsZi5sb2coImhvdXJzICVkIiAlIGxlbihob3VycykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjc2VsZi5sb2coImRlc2NyaXB0aW9uICVzIiAlIGRlc2NyaXB0aW9uKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIDE6IChxdWVyeSwgdmVudWUpLgogICAgICAgICMgMjogKHF1ZXJ5LCB2ZW51ZSkuCiAgICAgICAgIyAzOiAocXVlcnksIHZlbnVlKS4KICAgICAgICAjIDQ6IChxdWVyeSwgdmVudWUpLgogICAgICAgICMgLi4uCg==</text>
+        <text encoding="base64">ICAgICAgICAjc2VsZi5sb2coIlZpc2l0ZWQgJXMiICUgcmVzcG9uc2UudXJsKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAgICAgcXVlcnlfdHlwZSwgbG9jYXRpb24sIHJlc3VsdCA9IGZ1dHVyZS5yZXN1bHQoKQogICAgICAgICAgICAjCiAgICAgICAgICAgICMgICAgIGNvbF9pbmRleCA9IG5leHQoeCBmb3IgeCwgY29sIGluIGVudW1lcmF0ZShzZWxmLmNvbHVtbnMpIGlmIGNvbCA9PSBsb2NhdGlvbikKICAgICAgICAgICAgIyAgICAgdHlwZV9jb2wgPSBuZXh0KHQgZm9yIHQgaW4gc2VsZi5xdWVyeV90eXBlcyBpZiB0WzBdID09IHF1ZXJ5X3R5cGUpCiAgICAgICAgICAgICMgICAgIHJvdyA9IGNvbF9pbmRleAogICAgICAgICAgICAjICAgICBjb2xfb2Zmc2V0ID0gdHlwZV9jb2xbMV0KICAgICAgICAgICAgIyAgICAgc2VsZi5zaGVldC5jZWxsKHJvdz0yLCBjb2x1bW49MSkudmFsdWUgPSBkYXRldGltZS5ub3coKQogICAgICAgICAgICAjICAgICBzZWxmLnNoZWV0LmNlbGwocm93PTIsIGNvbHVtbj1jb2xfb2Zmc2V0KzEpLnZhbHVlID0gcmVzdWx0CiAgICAgICAgICAgICMKICAgICAgICAgICAgIyAgICAgbG9nZ2luZy5pbmZvKCJSZXN1bHQgZm9yICh7fSwge30pOiB7fSIuZm9ybWF0KHF1ZXJ5X3R5cGUsIGxvY2F0aW9uLCByZXN1bHQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICNzZWxmLmxvZygicmVxdWVzdGluZyAlcyIgJSBpdGVtWydldmVudHVybCddKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>crea</last-search>
+      <last-search encoding="base64">XDxsaXN0aW5nc1w+</last-search>
       <last-offset />
-      <last-pattern>crea</last-pattern>
+      <last-pattern encoding="base64">XDxsaXN0aW5nc1w+</last-pattern>
       <last-replace>total</last-replace>
       <last-substitute>title</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -145,6 +151,7 @@
         <entry>pairs</entry>
         <entry>creator</entry>
         <entry>crea</entry>
+        <entry encoding="base64">XDxsaXN0aW5nc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>s,New-York,Israel,g</entry>
