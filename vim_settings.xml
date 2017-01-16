@@ -20,10 +20,10 @@
         <mark key="]" line="12" column="22" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" timestamp="1484500371554">
-        <mark key="'" line="95" column="114" />
-        <mark key="[" line="134" column="32" />
-        <mark key="]" line="134" column="38" />
+      <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" timestamp="1484570324257">
+        <mark key="'" line="71" column="138" />
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="13" column="57" />
         <mark key="." line="134" column="38" />
         <mark key="^" line="134" column="38" />
       </file>
@@ -92,16 +92,20 @@
       <jump line="135" column="8" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
       <jump line="3" column="8" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
       <jump line="95" column="114" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
+      <jump line="111" column="0" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
+      <jump line="77" column="48" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
+      <jump line="71" column="138" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>http://www.mouse.co.il/CM.TLVEvents,1661,,,.aspx&quot;</text>
       </register>
       <register name="-" type="4">
         <text>name</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdG9yc1w+</text>
+        <text encoding="base64">XDxsb2NhdGlvbl90ZXh0XD4=</text>
       </register>
       <register name="0" type="4">
         <text>kwargs.get('start_url')</text>
@@ -138,12 +142,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdG9yc1w+</last-search>
+      <last-search encoding="base64">XDxsb2NhdGlvbl90ZXh0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdG9yc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxsb2NhdGlvbl90ZXh0XD4=</last-pattern>
       <last-replace>total</last-replace>
       <last-substitute>title</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -164,6 +168,8 @@
         <entry>crea</entry>
         <entry encoding="base64">XDxsaXN0aW5nc1w+</entry>
         <entry encoding="base64">XDxjcmVhdG9yc1w+</entry>
+        <entry>location</entry>
+        <entry encoding="base64">XDxsb2NhdGlvbl90ZXh0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s,New-York,Israel,g</entry>
