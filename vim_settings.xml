@@ -15,20 +15,19 @@
       <file name="/Python Console" timestamp="1484486914647">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/items.py" timestamp="1484487934718">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/items.py" timestamp="1484499078848">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" timestamp="1484492178880">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="27" />
-        <mark key="." line="22" column="27" />
-        <mark key="^" line="23" column="54" />
+      <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" timestamp="1484500371554">
+        <mark key="'" line="95" column="114" />
+        <mark key="[" line="134" column="32" />
+        <mark key="]" line="134" column="38" />
+        <mark key="." line="134" column="38" />
+        <mark key="^" line="134" column="38" />
       </file>
-      <file name="/a.dummy" timestamp="1484487590860">
+      <file name="/a.dummy" timestamp="1484498514254">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/Runner/Runner/Program.cs" timestamp="1484154582182">
@@ -88,58 +87,63 @@
       <jump line="29" column="8" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
       <jump line="42" column="24" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
       <jump line="21" column="0" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
+      <jump line="57" column="61" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
+      <jump line="75" column="34" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
+      <jump line="135" column="8" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
+      <jump line="3" column="8" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
+      <jump line="95" column="114" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaXN0aW5nc1w+</text>
+        <text encoding="base64">XDxjcmVhdG9yc1w+</text>
       </register>
       <register name="0" type="4">
         <text>kwargs.get('start_url')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiQU1JUiBBTUlSIiwgaXRlbVsnJ10pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiQU1JUiBBTUlSIiwgaXRlbVsnbmFtZSddKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGkgICBpZiAoa3cK</text>
+        <text encoding="base64">ICAgICAgICBwcmRkZGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpdGVtID0gcmVzcG9uc2UubWV0YVsnaXRlbSddCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZV9yZXF1ZXN0Lm1ldGFbJ2l0ZW0nXSA9IGl0ZW0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWwgPSBTZWxlY3RvcihyZXNwb25zZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnTkFNRScsIG5hbWUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjc2VsZi5sb2coImhvdXJzICVkIiAlIGxlbihob3VycykpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjc2VsZi5sb2coImRlc2NyaXB0aW9uICVzIiAlIGRlc2NyaXB0aW9uKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsaXN0aW5nc1w+</last-search>
+      <last-search encoding="base64">XDxjcmVhdG9yc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaXN0aW5nc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdG9yc1w+</last-pattern>
       <last-replace>total</last-replace>
       <last-substitute>title</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -159,6 +163,7 @@
         <entry>creator</entry>
         <entry>crea</entry>
         <entry encoding="base64">XDxsaXN0aW5nc1w+</entry>
+        <entry encoding="base64">XDxjcmVhdG9yc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>s,New-York,Israel,g</entry>
