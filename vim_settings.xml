@@ -20,10 +20,10 @@
         <mark key="]" line="12" column="22" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" timestamp="1484570324257">
+      <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" timestamp="1484740148803">
         <mark key="'" line="71" column="138" />
         <mark key="[" line="13" column="9" />
-        <mark key="]" line="13" column="57" />
+        <mark key="]" line="13" column="56" />
         <mark key="." line="134" column="38" />
         <mark key="^" line="134" column="38" />
       </file>
@@ -99,7 +99,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://www.mouse.co.il/CM.TLVEvents,1661,,,.aspx&quot;</text>
+        <text>http://www.mouse.co.il/CM.TLVEvents,1661,,,.aspx</text>
       </register>
       <register name="-" type="4">
         <text>name</text>
