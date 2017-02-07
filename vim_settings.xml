@@ -9,7 +9,7 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483626953135">
+      <file name="/Dummy.txt" timestamp="1486469495416">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1486308394652">
@@ -37,13 +37,12 @@
         <mark key="[" line="38" column="42" />
         <mark key="]" line="38" column="89" />
       </file>
-      <file name="$USER_HOME$/repos/omg-events-summary/main.py" timestamp="1486467657443">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="66" column="82" />
-        <mark key="m" line="69" column="62" />
-        <mark key="]" line="66" column="81" />
-        <mark key="." line="66" column="81" />
-        <mark key="^" line="66" column="81" />
+      <file name="$USER_HOME$/repos/omg-events-summary/main.py" timestamp="1486470584191">
+        <mark key="'" line="70" column="64" />
+        <mark key="[" line="77" column="56" />
+        <mark key="]" line="77" column="56" />
+        <mark key="^" line="91" column="111" />
+        <mark key="." line="77" column="56" />
       </file>
     </filemarks>
     <jumps>
@@ -58,7 +57,6 @@
       <jump line="5" column="13" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="1" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="78" column="4" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="42" column="37" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="72" column="12" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="47" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="55" column="8" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
@@ -72,14 +70,11 @@
       <jump line="96" column="60" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="98" column="34" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="62" column="39" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="67" column="25" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="74" column="138" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="75" column="138" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="88" column="161" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="61" column="7" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="45" column="55" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="79" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="71" column="69" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="80" column="43" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="83" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="66" column="42" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
@@ -96,7 +91,6 @@
       <jump line="77" column="48" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
       <jump line="71" column="138" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
       <jump line="77" column="12" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="70" column="12" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="64" column="12" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="40" column="34" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="65" column="62" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
@@ -108,65 +102,74 @@
       <jump line="134" column="8" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
       <jump line="67" column="56" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
       <jump line="33" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="75" column="57" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="37" column="19" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="18" column="71" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="71" column="22" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="42" column="44" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="3" column="28" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="91" column="39" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="67" column="17" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="68" column="22" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="69" column="74" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="70" column="64" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>show</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>query_pair</text>
       </register>
       <register name="0" type="4">
-        <text>name&quot;:</text>
+        <text>sheet_column</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgamwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiQU1JUiIsIGl0ZW1bJ2NyZWF0b3JzJ10pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgT3JkZXJlZERpY3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgago=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgWW91IHNob3VsZCBrZWVwIG9yZGVyIGluIHF1ZXJpZXMgc28K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFdlIGtlZXAgdGhlIGNvbHVtbnMgaW4gb3JkZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5pbmZvKCJTdGFydGluZyBxdWVyeSB0aHJlYWRzIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiUXVlcnkgY29tcGxldGVkCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNoZWV0LmNlbGwocm93PTIsIGNvbHVtbj0xKS5hbGlnbm1lbnQgPSBBbGlnbm1lbnQoc2hyaW5rX3RvX2ZpdD1UcnVlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndvcmtib29rLnNhdmUob3V0X2ZpbGVuYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNoZWV0LmNlbGwocm93PTEsIGNvbHVtbj0xKS5hbGlnbm1lbnQgPSBBbGlnbm1lbnQoc2hyaW5rX3RvX2ZpdD1UcnVlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>query_pair</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>query_pair</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>New-York</entry>
-        <entry>print</entry>
-        <entry>sheet</entry>
         <entry>cols_offset_30</entry>
         <entry>30</entry>
         <entry>title</entry>
@@ -184,6 +187,9 @@
         <entry encoding="base64">XDxsb2NhdGlvbl90ZXh0XD4=</entry>
         <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
         <entry>'</entry>
+        <entry>style</entry>
+        <entry>Align</entry>
+        <entry>query_pair</entry>
       </history-search>
       <history-cmd>
         <entry>s,New-York,Israel,g</entry>
@@ -194,11 +200,12 @@
         <entry>s,title,30</entry>
         <entry>s,30,title</entry>
         <entry>s/title/total/g</entry>
-        <entry>W</entry>
         <entry>s,',&quot;,</entry>
         <entry>s,',&quot;,s</entry>
         <entry>s,',&quot;,g</entry>
+        <entry>W</entry>
         <entry>w</entry>
+        <entry>'</entry>
       </history-cmd>
       <history-expr />
       <history-input />
