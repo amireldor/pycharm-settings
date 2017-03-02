@@ -52,12 +52,12 @@
         <mark key="]" line="12" column="22" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/shiux/main.py" timestamp="1488461416544">
-        <mark key="'" line="42" column="8" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="5" />
-        <mark key="." line="14" column="5" />
-        <mark key="^" line="14" column="5" />
+      <file name="$USER_HOME$/repos/shiux/main.py" timestamp="1488463186551">
+        <mark key="'" line="17" column="34" />
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="17" column="5" />
+        <mark key="." line="17" column="5" />
+        <mark key="^" line="17" column="5" />
       </file>
       <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" timestamp="1486308461469">
         <mark key="'" line="67" column="56" />
@@ -70,16 +70,14 @@
         <mark key="[" line="38" column="42" />
         <mark key="]" line="38" column="89" />
       </file>
-      <file name="$USER_HOME$/repos/shiux/yoosh/mongo/__init__.py" timestamp="1488461384692">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="12" column="15" />
+      <file name="$USER_HOME$/repos/shiux/yoosh/mongo/__init__.py" timestamp="1488463189681">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="6" />
+        <mark key="." line="10" column="6" />
+        <mark key="^" line="10" column="6" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="12" column="3" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="38" column="52" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="5" column="13" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="1" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
@@ -177,37 +175,40 @@
       <jump line="5" column="0" filename="$USER_HOME$/repos/shiux/yoosh/__init__.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/shiux/yoosh/__init__.py" />
       <jump line="39" column="8" filename="$USER_HOME$/repos/shiux/main.py" />
+      <jump line="112" column="8" filename="$USER_HOME$/repos/shiux/main.py" />
+      <jump line="49" column="39" filename="$USER_HOME$/repos/shiux/main.py" />
+      <jump line="17" column="34" filename="$USER_HOME$/repos/shiux/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>from</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>from</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>events</text>
+        <text>find_one</text>
       </register>
       <register name="0" type="4">
         <text>'mongodb://root:duxifatt@ny.api.yoosh.io/'</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CmlmIHBhcnNlci5hcmdzLnByb2Q6CiAgICBwcmludCgicHJvZCIpCmVsc2U6CiAgICBwcmludCgic3RnIikK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">cGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoKQpwYXJzZXIuYWRkX2FyZ3VtZW50KCctLXByb2QnLCBkZWZhdWx0PUZhbHNlLCBhY3Rpb249InN0b3JlX3RydWUiKQpwYXJzZXIuc2V0X2RlZmF1bHRzKHByb2Q9RmFsc2UpCnBhcnNlci5wYXJzZV9hcmdzKCkKCg==</text>
+      </register>
+      <register name="4" type="4">
         <text>from yoosh.mongo
 
 
 event_collection = yoosh.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZXZlbnRzID0gCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBweW1vbmdvIGltcG9ydCBNb25nb0NsaWVudAppbXBvcnQgYnNvbgoKIyB0ZW1wIG1vdmUgdG8gY29tbW9uIG1vZHVsZQptb25nb19jbGllbnQgPSBNb25nb0NsaWVudCgnbW9uZ29kYjovLzE3Mi4zMS4xMS4xMzQsMTcyLjMxLjI1LjE4NSwxNzIuMzEuNDIuNDYvP3JlcGxpY2FTZXQ9cnMwJywgc2VydmVyU2VsZWN0aW9uVGltZW91dE1TPTUwMDApCiMgbW9uZ29fY2xpZW50ID0gTW9uZ29DbGllbnQoJ21vbmdvZGI6Ly9yb290OmR1eGlmYXR0QG55LmFwaS55b29zaC5pby8nLCBzZXJ2ZXJTZWxlY3Rpb25UaW1lb3V0TVM9NTAwMCkKY29kZWNfb3B0aW9ucyA9IGJzb24uQ29kZWNPcHRpb25zKHV1aWRfcmVwcmVzZW50YXRpb249YnNvbi5iaW5hcnkuQ1NIQVJQX0xFR0FDWSkKZXZlbnRzID0gbW9uZ29fY2xpZW50Lllvb3NoREIuZ2V0X2NvbGxlY3Rpb24oJ0V2ZW50cycsIGNvZGVjX29wdGlvbnMpCg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGJzb24K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3815,25 +3816,25 @@ event_collection = yoosh.</text>
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBweW1vbmdvIGltcG9ydCBNb25nb0NsaWVudAoKIyB0ZW1wIG1vdmUgdG8gY29tbW9uIG1vZHVsZQptb25nb19jbGllbnQgPSBNb25nb0NsaWVudCgnbW9uZ29kYjovLzE3Mi4zMS4xMS4xMzQsMTcyLjMxLjI1LjE4NSwxNzIuMzEuNDIuNDYvP3JlcGxpY2FTZXQ9cnMwJywgc2VydmVyU2VsZWN0aW9uVGltZW91dE1TPTUwMDApCiMgbW9uZ29fY2xpZW50ID0gTW9uZ29DbGllbnQoJ21vbmdvZGI6Ly9yb290OmR1eGlmYXR0QG55LmFwaS55b29zaC5pby8nLCBzZXJ2ZXJTZWxlY3Rpb25UaW1lb3V0TVM9NTAwMCkKY29kZWNfb3B0aW9ucyA9IGJzb24uQ29kZWNPcHRpb25zKHV1aWRfcmVwcmVzZW50YXRpb249YnNvbi5iaW5hcnkuQ1NIQVJQX0xFR0FDWSkKZXZlbnRzID0gbW9uZ29fY2xpZW50Lllvb3NoREIuZ2V0X2NvbGxlY3Rpb24oJ0V2ZW50cycsIGNvZGVjX29wdGlvbnMpCg==</text>
+        <text encoding="base64">ZXZlbnRzID0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiUmVwbGFjZWQiKQo=</text>
+        <text encoding="base64">ZnJvbSBweW1vbmdvIGltcG9ydCBNb25nb0NsaWVudAppbXBvcnQgYnNvbgoKIyB0ZW1wIG1vdmUgdG8gY29tbW9uIG1vZHVsZQptb25nb19jbGllbnQgPSBNb25nb0NsaWVudCgnbW9uZ29kYjovLzE3Mi4zMS4xMS4xMzQsMTcyLjMxLjI1LjE4NSwxNzIuMzEuNDIuNDYvP3JlcGxpY2FTZXQ9cnMwJywgc2VydmVyU2VsZWN0aW9uVGltZW91dE1TPTUwMDApCiMgbW9uZ29fY2xpZW50ID0gTW9uZ29DbGllbnQoJ21vbmdvZGI6Ly9yb290OmR1eGlmYXR0QG55LmFwaS55b29zaC5pby8nLCBzZXJ2ZXJTZWxlY3Rpb25UaW1lb3V0TVM9NTAwMCkKY29kZWNfb3B0aW9ucyA9IGJzb24uQ29kZWNPcHRpb25zKHV1aWRfcmVwcmVzZW50YXRpb249YnNvbi5iaW5hcnkuQ1NIQVJQX0xFR0FDWSkKZXZlbnRzID0gbW9uZ29fY2xpZW50Lllvb3NoREIuZ2V0X2NvbGxlY3Rpb24oJ0V2ZW50cycsIGNvZGVjX29wdGlvbnMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXMK</text>
+        <text encoding="base64">aW1wb3J0IGJzb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJwo=</text>
+        <text encoding="base64">ZnJvbSBweW1vbmdvIGltcG9ydCBNb25nb0NsaWVudAoKIyB0ZW1wIG1vdmUgdG8gY29tbW9uIG1vZHVsZQptb25nb19jbGllbnQgPSBNb25nb0NsaWVudCgnbW9uZ29kYjovLzE3Mi4zMS4xMS4xMzQsMTcyLjMxLjI1LjE4NSwxNzIuMzEuNDIuNDYvP3JlcGxpY2FTZXQ9cnMwJywgc2VydmVyU2VsZWN0aW9uVGltZW91dE1TPTUwMDApCiMgbW9uZ29fY2xpZW50ID0gTW9uZ29DbGllbnQoJ21vbmdvZGI6Ly9yb290OmR1eGlmYXR0QG55LmFwaS55b29zaC5pby8nLCBzZXJ2ZXJTZWxlY3Rpb25UaW1lb3V0TVM9NTAwMCkKY29kZWNfb3B0aW9ucyA9IGJzb24uQ29kZWNPcHRpb25zKHV1aWRfcmVwcmVzZW50YXRpb249YnNvbi5iaW5hcnkuQ1NIQVJQX0xFR0FDWSkKZXZlbnRzID0gbW9uZ29fY2xpZW50Lllvb3NoREIuZ2V0X2NvbGxlY3Rpb24oJ0V2ZW50cycsIGNvZGVjX29wdGlvbnMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>events</last-search>
+      <last-search>find_one</last-search>
       <last-offset />
-      <last-pattern>events</last-pattern>
+      <last-pattern>find_one</last-pattern>
       <last-replace>dec1</last-replace>
       <last-substitute>month1</last-substitute>
       <last-dir>1</last-dir>
@@ -3841,7 +3842,6 @@ event_collection = yoosh.</text>
     </search>
     <history>
       <history-search>
-        <entry>pairs</entry>
         <entry>creator</entry>
         <entry>crea</entry>
         <entry encoding="base64">XDxsaXN0aW5nc1w+</entry>
@@ -3861,6 +3861,7 @@ event_collection = yoosh.</text>
         <entry>mexico</entry>
         <entry>month1</entry>
         <entry>events</entry>
+        <entry>find_one</entry>
       </history-search>
       <history-cmd>
         <entry>s/title/total/g</entry>
