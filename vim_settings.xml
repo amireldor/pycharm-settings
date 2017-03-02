@@ -52,11 +52,11 @@
         <mark key="]" line="12" column="22" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/shiux/main.py" timestamp="1488463186551">
+      <file name="$USER_HOME$/repos/shiux/main.py" timestamp="1488466629182">
         <mark key="'" line="17" column="34" />
-        <mark key="[" line="17" column="5" />
-        <mark key="]" line="17" column="5" />
-        <mark key="." line="17" column="5" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="56" />
+        <mark key="." line="98" column="56" />
         <mark key="^" line="17" column="5" />
       </file>
       <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" timestamp="1486308461469">
@@ -180,17 +180,17 @@
       <jump line="17" column="34" filename="$USER_HOME$/repos/shiux/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmJhZF9ldmVudFsnQ3JlYXRvciddID0gc2VsZi5nb29kX2NyZWF0b3JfaWQK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>find_one</text>
       </register>
-      <register name="0" type="4">
-        <text>'mongodb://root:duxifatt@ny.api.yoosh.io/'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmJhZF9ldmVudFsnQ3JlYXRvciddID0gc2VsZi5nb29kX2NyZWF0b3JfaWQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
