@@ -32,7 +32,7 @@
         <mark key="." line="110" column="0" />
         <mark key="^" line="110" column="16" />
       </file>
-      <file name="/a.dummy" timestamp="1484498514254">
+      <file name="/a.dummy" timestamp="1490861876118">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/shiux/yoosh/__init__.py" timestamp="1488461073346">
@@ -40,12 +40,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/omg-events-summary/main.py" timestamp="1487694206029">
-        <mark key="'" line="71" column="4" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="64" column="39" />
-        <mark key="^" line="58" column="3" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/repos/omg-events-summary/main.py" timestamp="1490863150713">
+        <mark key="'" line="51" column="44" />
+        <mark key="[" line="135" column="36" />
+        <mark key="]" line="135" column="50" />
+        <mark key="." line="135" column="50" />
+        <mark key="^" line="135" column="50" />
       </file>
       <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/items.py" timestamp="1484499078848">
         <mark key="[" line="12" column="0" />
@@ -75,11 +75,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="52" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="5" column="13" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="78" column="4" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="55" column="8" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="43" column="3" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="2" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
@@ -87,7 +82,6 @@
       <jump line="97" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="81" column="71" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="90" column="140" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="96" column="60" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="98" column="34" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="62" column="39" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="61" column="7" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
@@ -113,7 +107,6 @@
       <jump line="40" column="34" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="65" column="62" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="4" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="51" column="20" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="52" column="20" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="63" column="8" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="105" column="35" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
@@ -125,7 +118,6 @@
       <jump line="9" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="42" column="44" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="3" column="28" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="91" column="39" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="67" column="17" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="68" column="22" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="69" column="74" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
@@ -175,37 +167,42 @@
       <jump line="112" column="8" filename="$USER_HOME$/repos/shiux/main.py" />
       <jump line="49" column="39" filename="$USER_HOME$/repos/shiux/main.py" />
       <jump line="17" column="34" filename="$USER_HOME$/repos/shiux/main.py" />
+      <jump line="91" column="26" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="107" column="11" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="47" column="4" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="96" column="51" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="51" column="44" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJhZF9ldmVudFsnQ3JlYXRvciddID0gc2VsZi5nb29kX2NyZWF0b3JfaWQK</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>find_one</text>
+        <text encoding="base64">XDxvdXRfZmlsZW5hbWVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJhZF9ldmVudFsnQ3JlYXRvciddID0gc2VsZi5nb29kX2NyZWF0b3JfaWQK</text>
+        <text encoding="base64">ICAgIGNvbWJpbmVfbmFtZWRfcXVlcmllcyhpc3JhZWwsIHBsdXNfMzApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmlmIHBhcnNlci5hcmdzLnByb2Q6CiAgICBwcmludCgicHJvZCIpCmVsc2U6CiAgICBwcmludCgic3RnIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoKQpwYXJzZXIuYWRkX2FyZ3VtZW50KCctLXByb2QnLCBkZWZhdWx0PUZhbHNlLCBhY3Rpb249InN0b3JlX3RydWUiKQpwYXJzZXIuc2V0X2RlZmF1bHRzKHByb2Q9RmFsc2UpCnBhcnNlci5wYXJzZV9hcmdzKCkKCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>from yoosh.mongo
-
-
-event_collection = yoosh.</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHNlbGYuZmluZF9sYXN0X2ZvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFjdGl2ZV9yb3cgPSAyCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3812,36 +3809,34 @@ event_collection = yoosh.</text>
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZXZlbnRzID0gCg==</text>
+      <register name="6" type="8">
+        <text>2
+2</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBweW1vbmdvIGltcG9ydCBNb25nb0NsaWVudAppbXBvcnQgYnNvbgoKIyB0ZW1wIG1vdmUgdG8gY29tbW9uIG1vZHVsZQptb25nb19jbGllbnQgPSBNb25nb0NsaWVudCgnbW9uZ29kYjovLzE3Mi4zMS4xMS4xMzQsMTcyLjMxLjI1LjE4NSwxNzIuMzEuNDIuNDYvP3JlcGxpY2FTZXQ9cnMwJywgc2VydmVyU2VsZWN0aW9uVGltZW91dE1TPTUwMDApCiMgbW9uZ29fY2xpZW50ID0gTW9uZ29DbGllbnQoJ21vbmdvZGI6Ly9yb290OmR1eGlmYXR0QG55LmFwaS55b29zaC5pby8nLCBzZXJ2ZXJTZWxlY3Rpb25UaW1lb3V0TVM9NTAwMCkKY29kZWNfb3B0aW9ucyA9IGJzb24uQ29kZWNPcHRpb25zKHV1aWRfcmVwcmVzZW50YXRpb249YnNvbi5iaW5hcnkuQ1NIQVJQX0xFR0FDWSkKZXZlbnRzID0gbW9uZ29fY2xpZW50Lllvb3NoREIuZ2V0X2NvbGxlY3Rpb24oJ0V2ZW50cycsIGNvZGVjX29wdGlvbnMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGJzb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBweW1vbmdvIGltcG9ydCBNb25nb0NsaWVudAoKIyB0ZW1wIG1vdmUgdG8gY29tbW9uIG1vZHVsZQptb25nb19jbGllbnQgPSBNb25nb0NsaWVudCgnbW9uZ29kYjovLzE3Mi4zMS4xMS4xMzQsMTcyLjMxLjI1LjE4NSwxNzIuMzEuNDIuNDYvP3JlcGxpY2FTZXQ9cnMwJywgc2VydmVyU2VsZWN0aW9uVGltZW91dE1TPTUwMDApCiMgbW9uZ29fY2xpZW50ID0gTW9uZ29DbGllbnQoJ21vbmdvZGI6Ly9yb290OmR1eGlmYXR0QG55LmFwaS55b29zaC5pby8nLCBzZXJ2ZXJTZWxlY3Rpb25UaW1lb3V0TVM9NTAwMCkKY29kZWNfb3B0aW9ucyA9IGJzb24uQ29kZWNPcHRpb25zKHV1aWRfcmVwcmVzZW50YXRpb249YnNvbi5iaW5hcnkuQ1NIQVJQX0xFR0FDWSkKZXZlbnRzID0gbW9uZ29fY2xpZW50Lllvb3NoREIuZ2V0X2NvbGxlY3Rpb24oJ0V2ZW50cycsIGNvZGVjX29wdGlvbnMpCg==</text>
+        <text encoding="base64">ICAgICMgY29tYmluZV9xdWVyeV9wYWlycyhpc3JhZWwsIHRvdGFsKSwKICAgICMgY29tYmluZV9xdWVyeV9wYWlycyh0ZWxfYXZpdiwgdG90YWwpLAogICAgIyBjb21iaW5lX3F1ZXJ5X3BhaXJzKHVzYSwgdG90YWwpLAogICAgIyBjb21iaW5lX3F1ZXJ5X3BhaXJzKG5ld195b3JrLCB0b3RhbCksCiAgICAjIGNvbWJpbmVfcXVlcnlfcGFpcnMoaXNyYWVsLCBwbHVzXzMwKSwKICAgICMgY29tYmluZV9xdWVyeV9wYWlycyh0ZWxfYXZpdiwgcGx1c18zMCksCiAgICAjIGNvbWJpbmVfcXVlcnlfcGFpcnModXNhLCBwbHVzXzMwKSwKICAgICMgY29tYmluZV9xdWVyeV9wYWlycyhuZXdfeW9yaywgcGx1c18zMCksCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>find_one</last-search>
+      <last-search encoding="base64">XDxvdXRfZmlsZW5hbWVcPg==</last-search>
       <last-offset />
-      <last-pattern>find_one</last-pattern>
-      <last-replace>dec1</last-replace>
-      <last-substitute>month1</last-substitute>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxvdXRfZmlsZW5hbWVcPg==</last-pattern>
+      <last-replace>name</last-replace>
+      <last-substitute>title</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>creator</entry>
-        <entry>crea</entry>
-        <entry encoding="base64">XDxsaXN0aW5nc1w+</entry>
         <entry encoding="base64">XDxjcmVhdG9yc1w+</entry>
         <entry>location</entry>
         <entry encoding="base64">XDxsb2NhdGlvbl90ZXh0XD4=</entry>
@@ -3859,9 +3854,11 @@ event_collection = yoosh.</text>
         <entry>month1</entry>
         <entry>events</entry>
         <entry>find_one</entry>
+        <entry>title</entry>
+        <entry>find_last</entry>
+        <entry encoding="base64">XDxvdXRfZmlsZW5hbWVcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>s/title/total/g</entry>
         <entry>s,',&quot;,</entry>
         <entry>s,',&quot;,s</entry>
         <entry>s,',&quot;,g</entry>
@@ -3880,6 +3877,7 @@ event_collection = yoosh.</text>
         <entry encoding="base64">JzwsJz5zLG1vbnRoMSxub3YxLA==</entry>
         <entry encoding="base64">JzwsJz5zLG1vbnRoMSxkZWMxLA==</entry>
         <entry>'</entry>
+        <entry>s,title,name,g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
