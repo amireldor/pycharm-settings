@@ -9,11 +9,12 @@
       <file name="/Dummy.txt" timestamp="1487606403192">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/weka2/tests/testcache.py" timestamp="1492896396300">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
-        <mark key="^" line="5" column="24" />
+      <file name="$USER_HOME$/Desktop/weka2/tests/testcache.py" timestamp="1492899131334">
+        <mark key="'" line="53" column="24" />
+        <mark key="[" line="53" column="24" />
+        <mark key="]" line="53" column="24" />
+        <mark key="." line="53" column="24" />
+        <mark key="^" line="37" column="33" />
       </file>
       <file name="/Python Console" timestamp="1492894806682">
         <mark key="[" line="0" column="0" />
@@ -67,11 +68,11 @@
         <mark key="." line="10" column="6" />
         <mark key="^" line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Desktop/weka2/cache/__init__.py" timestamp="1492896570139">
-        <mark key="'" line="15" column="10" />
-        <mark key="[" line="28" column="58" />
-        <mark key="]" line="28" column="60" />
-        <mark key="." line="28" column="60" />
+      <file name="$USER_HOME$/Desktop/weka2/cache/__init__.py" timestamp="1492899133694">
+        <mark key="'" line="18" column="39" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
         <mark key="^" line="28" column="60" />
       </file>
       <file name="$USER_HOME$/repos/shiux/restore.py" timestamp="1488455843730">
@@ -91,9 +92,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="76" column="79" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="97" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="81" column="71" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="90" column="140" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="98" column="34" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
@@ -191,34 +189,37 @@
       <jump line="51" column="44" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="15" column="11" filename="$USER_HOME$/Desktop/weka2/cache/__init__.py" />
       <jump line="13" column="10" filename="$USER_HOME$/Desktop/weka2/cache/__init__.py" />
+      <jump line="37" column="33" filename="$USER_HOME$/Desktop/weka2/tests/testcache.py" />
+      <jump line="53" column="24" filename="$USER_HOME$/Desktop/weka2/tests/testcache.py" />
+      <jump line="18" column="39" filename="$USER_HOME$/Desktop/weka2/cache/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvdXRfZmlsZW5hbWVcPg==</text>
+        <text>assertEquals</text>
       </register>
-      <register name="0" type="4">
-        <text>self.max_overall_memory</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNhY2hlID0gQ2FjaGUobWF4X2VudHJpZXM9bWF4X2VudHJpZXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIG1heF92YWx1ZV9tZW1vcnk9bWF4X3ZhbHVlX21lbW9yeSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgbWF4X292ZXJhbGxfbWVtb3J5PW1heF9vdmVyYWxsX21lbW9yeSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiQk5ZVU1CRVIiLCBzZWxmLm1heF9vdmVyYWxsX21lbW9yeSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1hbnlfZW50cmllc19jYWNoZSA9IENhY2hlKG1heF9lbnRyaWVzPW1heCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3BpcHAnLCBwb3BwZWRfc2l6ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiQk5ZVU1CRVIiLCBzZWxmLm1heF9vdmVyYWxsX21lbW9yeSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3826,33 +3827,32 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UK</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjaGVjayBhbGwgc2l6ZSBsaW1pdHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvdXRfZmlsZW5hbWVcPg==</last-search>
+      <last-search>assertEquals</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvdXRfZmlsZW5hbWVcPg==</last-pattern>
+      <last-pattern>assertEquals</last-pattern>
       <last-replace>name</last-replace>
       <last-substitute encoding="base64">XDxvdXRfZmlsZW5hbWVcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdG9yc1w+</entry>
         <entry>location</entry>
         <entry encoding="base64">XDxsb2NhdGlvbl90ZXh0XD4=</entry>
         <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
@@ -3872,6 +3872,7 @@
         <entry>title</entry>
         <entry>find_last</entry>
         <entry encoding="base64">XDxvdXRfZmlsZW5hbWVcPg==</entry>
+        <entry>assertEquals</entry>
       </history-search>
       <history-cmd>
         <entry>s,',&quot;,</entry>
