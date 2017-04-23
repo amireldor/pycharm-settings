@@ -9,15 +9,12 @@
       <file name="/Dummy.txt" timestamp="1487606403192">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/weka2/tests/testcache.py" timestamp="1492899131334">
-        <mark key="'" line="53" column="24" />
-        <mark key="[" line="53" column="24" />
-        <mark key="]" line="53" column="24" />
-        <mark key="." line="53" column="24" />
-        <mark key="^" line="37" column="33" />
-      </file>
-      <file name="/Python Console" timestamp="1492972989672">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/weka2/tests/testcache.py" timestamp="1492973777247">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="64" column="34" />
+        <mark key="]" line="64" column="32" />
+        <mark key="." line="64" column="32" />
+        <mark key="^" line="64" column="32" />
       </file>
       <file name="/fragment.py" timestamp="1486308457606">
         <mark key="[" line="0" column="0" />
@@ -31,6 +28,13 @@
         <mark key="]" line="135" column="50" />
         <mark key="." line="135" column="50" />
         <mark key="^" line="135" column="50" />
+      </file>
+      <file name="$USER_HOME$/Desktop/weka2/src/example.py" timestamp="1492974860320">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+        <mark key="^" line="1" column="32" />
       </file>
       <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/items.py" timestamp="1484499078848">
         <mark key="[" line="12" column="0" />
@@ -68,12 +72,12 @@
         <mark key="." line="10" column="6" />
         <mark key="^" line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Desktop/weka2/cache/__init__.py" timestamp="1492899133694">
-        <mark key="'" line="18" column="39" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="28" column="60" />
+      <file name="$USER_HOME$/Desktop/weka2/cache/__init__.py" timestamp="1492975005054">
+        <mark key="'" line="58" column="8" />
+        <mark key="[" line="31" column="116" />
+        <mark key="]" line="31" column="115" />
+        <mark key="." line="31" column="115" />
+        <mark key="^" line="31" column="115" />
       </file>
       <file name="$USER_HOME$/repos/shiux/restore.py" timestamp="1488455843730">
         <mark key="[" line="39" column="17" />
@@ -92,13 +96,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="71" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="90" column="140" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="98" column="34" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="62" column="39" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="61" column="7" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="45" column="55" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="80" column="43" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="83" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="66" column="42" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
@@ -192,34 +189,41 @@
       <jump line="37" column="33" filename="$USER_HOME$/Desktop/weka2/tests/testcache.py" />
       <jump line="53" column="24" filename="$USER_HOME$/Desktop/weka2/tests/testcache.py" />
       <jump line="18" column="39" filename="$USER_HOME$/Desktop/weka2/cache/__init__.py" />
+      <jump line="4" column="17" filename="$USER_HOME$/Desktop/weka2/src/example.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/weka2/tests/testcache.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/Desktop/weka2/cache/__init__.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/Desktop/weka2/src/example.py" />
+      <jump line="43" column="29" filename="$USER_HOME$/Desktop/weka2/cache/__init__.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/weka2/cache/__init__.py" />
+      <jump line="55" column="8" filename="$USER_HOME$/Desktop/weka2/cache/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>assertEquals</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNhY2hlID0gQ2FjaGUobWF4X2VudHJpZXM9bWF4X2VudHJpZXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIG1heF92YWx1ZV9tZW1vcnk9bWF4X3ZhbHVlX21lbW9yeSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgbWF4X292ZXJhbGxfbWVtb3J5PW1heF9vdmVyYWxsX21lbW9yeSkK</text>
+        <text encoding="base64">ICAgIHByaW50KCJTaXplIG9mIHt9IGJ5dGVzIGluIHt9IGVudHJpZXMiLmZvcm1hdChzdHVmZi5zaXplKCksIGxlbihzdHVmZikpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1hbnlfZW50cmllc19jYWNoZSA9IENhY2hlKG1heF9lbnRyaWVzPW1heCgpCg==</text>
+        <text encoding="base64">QSBzaW1wbGUgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3BpcHAnLCBwb3BwZWRfc2l6ZSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiQk5ZVU1CRVIiLCBzZWxmLm1heF9vdmVyYWxsX21lbW9yeSkK</text>
+        <text encoding="base64">cGEgIHByCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3827,13 +3831,13 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -3926,6 +3930,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
