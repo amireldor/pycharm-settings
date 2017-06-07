@@ -6,6 +6,12 @@
       <file name="/start_script.py" timestamp="1492895611758">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/citymouse_31_03_2016_0_jerusalem.json" timestamp="1484153017924">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
       <file name="/Dummy.txt" timestamp="1487606403192">
         <mark key="[" line="0" column="0" />
       </file>
@@ -16,49 +22,20 @@
         <mark key="." line="64" column="32" />
         <mark key="^" line="64" column="32" />
       </file>
+      <file name="$USER_HOME$/repos/shiux/restore.py" timestamp="1488455843730">
+        <mark key="[" line="39" column="17" />
+        <mark key="]" line="39" column="17" />
+        <mark key="." line="39" column="17" />
+        <mark key="^" line="39" column="17" />
+      </file>
+      <file name="/Python Console" timestamp="1493555197110">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
       <file name="/fragment.py" timestamp="1486308457606">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1490861876118">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/omg-events-summary/main.py" timestamp="1490863150713">
-        <mark key="'" line="51" column="44" />
-        <mark key="[" line="135" column="36" />
-        <mark key="]" line="135" column="50" />
-        <mark key="." line="135" column="50" />
-        <mark key="^" line="135" column="50" />
-      </file>
-      <file name="$USER_HOME$/Desktop/weka2/src/example.py" timestamp="1492974860320">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="1" column="32" />
-        <mark key="]" line="1" column="32" />
-        <mark key="." line="1" column="32" />
-        <mark key="^" line="1" column="32" />
-      </file>
-      <file name="$USER_HOME$/Desktop/django-test/django_test/urls.py" timestamp="1496816607542">
-        <mark key="'" line="21" column="23" />
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="11" />
-        <mark key="." line="21" column="11" />
-        <mark key="^" line="21" column="20" />
-      </file>
-      <file name="$USER_HOME$/Desktop/django-test/pages/views.py" timestamp="1496816620130">
-        <mark key="[" line="3" column="43" />
-        <mark key="]" line="3" column="43" />
-        <mark key="." line="3" column="43" />
-        <mark key="^" line="3" column="43" />
-      </file>
-      <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/items.py" timestamp="1484499078848">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="22" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/django-test/contacts/models.py" timestamp="1496819538219">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/shiux/main.py" timestamp="1487607218214">
         <mark key="'" line="33" column="26" />
@@ -68,6 +45,42 @@
         <mark key="." line="110" column="0" />
         <mark key="^" line="110" column="16" />
       </file>
+      <file name="/a.dummy" timestamp="1493555900350">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/shiux/yoosh/__init__.py" timestamp="1488461073346">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/omg-events-summary/main.py" timestamp="1493555964185">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="12" column="50" />
+        <mark key="]" line="12" column="50" />
+        <mark key="." line="12" column="50" />
+        <mark key="^" line="12" column="47" />
+      </file>
+      <file name="$USER_HOME$/repos/omg-events-summary/queryitems.py" timestamp="1493555917804">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/weka2/src/example.py" timestamp="1492974860320">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+        <mark key="^" line="1" column="32" />
+      </file>
+      <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/items.py" timestamp="1484499078848">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/shiux/main.py" timestamp="1488466629182">
+        <mark key="'" line="17" column="34" />
+        <mark key="^" line="17" column="5" />
+      </file>
       <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" timestamp="1486308461469">
         <mark key="'" line="67" column="56" />
         <mark key="[" line="96" column="114" />
@@ -75,21 +88,16 @@
         <mark key="." line="97" column="50" />
         <mark key="^" line="97" column="50" />
       </file>
-      <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/citymouse_31_03_2016_0_jerusalem.json" timestamp="1484153017924">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+      <file name="$USER_HOME$/repos/omg-events-summary/israel_descriptor.py" timestamp="1493555994332">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/repos/shiux/main.py" timestamp="1488466629182">
-        <mark key="'" line="17" column="34" />
-        <mark key="^" line="17" column="5" />
-      </file>
-      <file name="$USER_HOME$/repos/shiux/yoosh/mongo/__init__.py" timestamp="1488463189681">
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="10" column="6" />
-        <mark key="." line="10" column="6" />
-        <mark key="^" line="10" column="6" />
+      <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/Runner/Runner/Program.cs" timestamp="1484154582182">
+        <mark key="[" line="38" column="42" />
+        <mark key="]" line="38" column="89" />
       </file>
       <file name="$USER_HOME$/Desktop/weka2/cache/__init__.py" timestamp="1492975005054">
         <mark key="'" line="58" column="8" />
@@ -98,27 +106,11 @@
         <mark key="." line="31" column="115" />
         <mark key="^" line="31" column="115" />
       </file>
-      <file name="$USER_HOME$/Desktop/django-test/contacts/views.py" timestamp="1496817485866">
-        <mark key="'" line="19" column="32" />
-        <mark key="[" line="3" column="36" />
-        <mark key="]" line="3" column="51" />
-        <mark key="." line="3" column="51" />
-        <mark key="^" line="3" column="51" />
-      </file>
-      <file name="$USER_HOME$/repos/shiux/restore.py" timestamp="1488455843730">
-        <mark key="[" line="39" column="17" />
-        <mark key="]" line="39" column="17" />
-        <mark key="." line="39" column="17" />
-        <mark key="^" line="39" column="17" />
-      </file>
-      <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/Runner/Runner/Program.cs" timestamp="1484154582182">
-        <mark key="[" line="38" column="42" />
-        <mark key="]" line="38" column="89" />
-      </file>
-      <file name="$USER_HOME$/repos/shiux/yoosh/__init__.py" timestamp="1488461073346">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/repos/shiux/yoosh/mongo/__init__.py" timestamp="1488463189681">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="6" />
+        <mark key="." line="10" column="6" />
+        <mark key="^" line="10" column="6" />
       </file>
     </filemarks>
     <jumps>
@@ -161,7 +153,6 @@
       <jump line="21" column="9" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="22" column="11" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="25" column="8" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="24" column="10" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="94" column="15" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="53" column="15" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
       <jump line="72" column="18" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
@@ -218,38 +209,39 @@
       <jump line="43" column="29" filename="$USER_HOME$/Desktop/weka2/cache/__init__.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/weka2/cache/__init__.py" />
       <jump line="55" column="8" filename="$USER_HOME$/Desktop/weka2/cache/__init__.py" />
-      <jump line="12" column="4" filename="$USER_HOME$/Desktop/django-test/contacts/views.py" />
-      <jump line="21" column="23" filename="$USER_HOME$/Desktop/django-test/django_test/urls.py" />
-      <jump line="3" column="6" filename="$USER_HOME$/Desktop/django-test/contacts/views.py" />
-      <jump line="18" column="32" filename="$USER_HOME$/Desktop/django-test/contacts/views.py" />
+      <jump line="23" column="82" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/repos/omg-events-summary/israel_descriptor.py" />
+      <jump line="17" column="24" filename="$USER_HOME$/repos/omg-events-summary/israel_descriptor.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/repos/omg-events-summary/israel_descriptor.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>document</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>assertEquals</text>
+        <text>test01</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBjcmVhdGUoc2VsZiwgZG9jdW1lbnQpOgogICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHByaW50KCJTaXplIG9mIHt9IGJ5dGVzIGluIHt9IGVudHJpZXMiLmZvcm1hdChzdHVmZi5zaXplKCksIGxlbihzdHVmZikpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y2xhc3MgTmFtZWRRdWVyeToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBuYW1lLCBxdWVyeSk6CiAgICAgICAgc2VsZi5uYW1lID0gbmFtZQogICAgICAgIHNlbGYucXVlcnkgPSBxdWVyeQoKICAgIGRlZiBfX3JlcHJfXyhzZWxmKToKICAgICAgICByZXR1cm4gJ1F1ZXJ5UGFpciA8Int9Iiwge30+Jy5mb3JtYXQoc2VsZi5uYW1lLCBzZWxmLnF1ZXJ5KQoKCmRlZiBjb21iaW5lX25hbWVkX3F1ZXJpZXMocGFpcjEsIHBhaXIyKToKICAgIHJldHVybiBOYW1lZFF1ZXJ5KCd7fSwge30nLmZvcm1hdChwYWlyMS5uYW1lLCBwYWlyMi5uYW1lKSwgeyoqcGFpcjEucXVlcnksICoqcGFpcjIucXVlcnl9KQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
+        <text encoding="base64">ZnJvbSBtYWluIGltcG9ydCBOYW1lZFF1ZXJ5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IXhhZWQK</text>
+        <text encoding="base64">ZnJvbSBtYWluIGltcG9ydCBOYW1lZFF1ZXJ5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVybChyJ14vPyQnLCBob21lcGFnZSwgbmFtZT0iaG9tZXBhZ2UiKSwK</text>
+        <text encoding="base64">Cmluc2VydGlvbnNfdGhpc19tb250aCA9ICgiSW5zZXJ0aW9ucyB0aGlzIG1vbnRoIiwgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVybChyJ14vPyQnLCBob21lcGFnZSwgbmFtZT0iaG9tZXBhZ2UiKSwK</text>
+        <text encoding="base64">aW1wb3J0IHJlCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3857,25 +3849,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVybChyJ14vY29udGFjdHMnLCBDb250YWN0c1ZpZXcuYXNfdmlldygpLCBuYW1lPSJjb250YWN0cyIpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBwdXQoc2VsZiwgcmVxdWVzdCk6CiAgICAgICAgcmV0dXJuIEh0dHBSZXNwb25zZSgidGhpcyBpcyBjb250YWN0cyBQVVQiKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gSHR0cFJlc3BvbnNlKCJ0aGlzIGlzIGNvbnRhY3RzIFBPU1QiKQo=</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICMgY29tYmluZV9uYW1lZF9xdWVyaWVzKHNwYWluLCBtb250aDEpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>assertEquals</last-search>
+      <last-search>test01</last-search>
       <last-offset />
-      <last-pattern>assertEquals</last-pattern>
+      <last-pattern>test01</last-pattern>
       <last-replace>name</last-replace>
       <last-substitute encoding="base64">XDxvdXRfZmlsZW5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -3883,7 +3875,6 @@
     </search>
     <history>
       <history-search>
-        <entry>location</entry>
         <entry encoding="base64">XDxsb2NhdGlvbl90ZXh0XD4=</entry>
         <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
         <entry>'</entry>
@@ -3903,15 +3894,16 @@
         <entry>find_last</entry>
         <entry encoding="base64">XDxvdXRfZmlsZW5hbWVcPg==</entry>
         <entry>assertEquals</entry>
+        <entry>test01</entry>
       </history-search>
       <history-cmd>
+        <entry>s,',&quot;,</entry>
         <entry>s,',&quot;,s</entry>
         <entry>s,',&quot;,g</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz53LHBsdXNfMzAsdG90YWwsZw==</entry>
         <entry encoding="base64">JzwsJz5zLHBsdXNfMzAsdG90YWwsZw==</entry>
-        <entry>W</entry>
         <entry>s,mexico,spain,g</entry>
         <entry>s,mexico,brazil,g</entry>
         <entry>s,mexico,peru,g</entry>
@@ -3923,7 +3915,7 @@
         <entry encoding="base64">JzwsJz5zLG1vbnRoMSxkZWMxLA==</entry>
         <entry>'</entry>
         <entry>s,title,name,g</entry>
-        <entry>w!</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -3959,9 +3951,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
