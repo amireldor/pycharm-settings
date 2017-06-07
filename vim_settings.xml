@@ -54,6 +54,12 @@
         <mark key="]" line="12" column="22" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/django-test/contacts/models.py" timestamp="1496819538219">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/shiux/main.py" timestamp="1487607218214">
         <mark key="'" line="33" column="26" />
         <mark key="[" line="110" column="0" />
@@ -219,31 +225,31 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IXhhZWQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>document</text>
       </register>
       <register name="/" type="4">
         <text>assertEquals</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBwb3N0KHNlbGYsIHJlcXVlc3QpOgogICAgICAgIHJldHVybiBIdHRwUmVzcG9uc2UoInRoaXMgaXMgY29udGFjdHMgUE9TVCIpCiAgICAK</text>
+        <text encoding="base64">ICAgIGRlZiBjcmVhdGUoc2VsZiwgZG9jdW1lbnQpOgogICAgICAgIHBhc3MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IXhhZWQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVybChyJ14vPyQnLCBob21lcGFnZSwgbmFtZT0iaG9tZXBhZ2UiKSwK</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVybChyJ14vPyQnLCBob21lcGFnZSwgbmFtZT0iaG9tZXBhZ2UiKSwK</text>
+        <text encoding="base64">IXhhZWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVybChyJ14vY29udGFjdHMnLCBDb250YWN0c1ZpZXcuYXNfdmlldygpLCBuYW1lPSJjb250YWN0cyIpLAo=</text>
+        <text encoding="base64">ICAgIHVybChyJ14vPyQnLCBob21lcGFnZSwgbmFtZT0iaG9tZXBhZ2UiKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBwdXQoc2VsZiwgcmVxdWVzdCk6CiAgICAgICAgcmV0dXJuIEh0dHBSZXNwb25zZSgidGhpcyBpcyBjb250YWN0cyBQVVQiKQoK</text>
+        <text encoding="base64">ICAgIHVybChyJ14vPyQnLCBob21lcGFnZSwgbmFtZT0iaG9tZXBhZ2UiKSwK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3851,16 +3857,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gSHR0cFJlc3BvbnNlKCJ0aGlzIGlzIGNvbnRhY3RzIFBPU1QiKQo=</text>
+        <text encoding="base64">ICAgIHVybChyJ14vY29udGFjdHMnLCBDb250YWN0c1ZpZXcuYXNfdmlldygpLCBuYW1lPSJjb250YWN0cyIpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlZiBwdXQoc2VsZiwgcmVxdWVzdCk6CiAgICAgICAgcmV0dXJuIEh0dHBSZXNwb25zZSgidGhpcyBpcyBjb250YWN0cyBQVVQiKQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gSHR0cFJlc3BvbnNlKCJ0aGlzIGlzIGNvbnRhY3RzIFBPU1QiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
