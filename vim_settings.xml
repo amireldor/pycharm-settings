@@ -36,6 +36,19 @@
         <mark key="." line="1" column="32" />
         <mark key="^" line="1" column="32" />
       </file>
+      <file name="$USER_HOME$/Desktop/django-test/django_test/urls.py" timestamp="1496816607542">
+        <mark key="'" line="21" column="23" />
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="11" />
+        <mark key="." line="21" column="11" />
+        <mark key="^" line="21" column="20" />
+      </file>
+      <file name="$USER_HOME$/Desktop/django-test/pages/views.py" timestamp="1496816620130">
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="3" column="43" />
+        <mark key="." line="3" column="43" />
+        <mark key="^" line="3" column="43" />
+      </file>
       <file name="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/items.py" timestamp="1484499078848">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="22" />
@@ -79,7 +92,13 @@
         <mark key="." line="31" column="115" />
         <mark key="^" line="31" column="115" />
       </file>
-      <file name="$USER_HOME$/Desktop/django-test/contacts/views.py" timestamp="1496813972495" />
+      <file name="$USER_HOME$/Desktop/django-test/contacts/views.py" timestamp="1496817485866">
+        <mark key="'" line="19" column="32" />
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="3" column="51" />
+        <mark key="." line="3" column="51" />
+        <mark key="^" line="3" column="51" />
+      </file>
       <file name="$USER_HOME$/repos/shiux/restore.py" timestamp="1488455843730">
         <mark key="[" line="39" column="17" />
         <mark key="]" line="39" column="17" />
@@ -97,10 +116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="43" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="83" column="0" filename="$USER_HOME$/repos/omg-events-summary/main.py" />
-      <jump line="66" column="42" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
-      <jump line="29" column="8" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
       <jump line="42" column="24" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
       <jump line="21" column="0" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
       <jump line="57" column="61" filename="$USER_HOME$/repos/scrapers/scrapers/CityMouseTlv/CityMouseTlv/spiders/CityMouseTlv_spider.py" />
@@ -197,34 +212,38 @@
       <jump line="43" column="29" filename="$USER_HOME$/Desktop/weka2/cache/__init__.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/weka2/cache/__init__.py" />
       <jump line="55" column="8" filename="$USER_HOME$/Desktop/weka2/cache/__init__.py" />
+      <jump line="12" column="4" filename="$USER_HOME$/Desktop/django-test/contacts/views.py" />
+      <jump line="21" column="23" filename="$USER_HOME$/Desktop/django-test/django_test/urls.py" />
+      <jump line="3" column="6" filename="$USER_HOME$/Desktop/django-test/contacts/views.py" />
+      <jump line="18" column="32" filename="$USER_HOME$/Desktop/django-test/contacts/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IXhhZWQK</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>assertEquals</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJTaXplIG9mIHt9IGJ5dGVzIGluIHt9IGVudHJpZXMiLmZvcm1hdChzdHVmZi5zaXplKCksIGxlbihzdHVmZikpKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBwb3N0KHNlbGYsIHJlcXVlc3QpOgogICAgICAgIHJldHVybiBIdHRwUmVzcG9uc2UoInRoaXMgaXMgY29udGFjdHMgUE9TVCIpCiAgICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QSBzaW1wbGUgCg==</text>
+        <text encoding="base64">IXhhZWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHVybChyJ14vPyQnLCBob21lcGFnZSwgbmFtZT0iaG9tZXBhZ2UiKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGEgIHByCg==</text>
+        <text encoding="base64">ICAgIHVybChyJ14vPyQnLCBob21lcGFnZSwgbmFtZT0iaG9tZXBhZ2UiKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">ICAgIHVybChyJ14vY29udGFjdHMnLCBDb250YWN0c1ZpZXcuYXNfdmlldygpLCBuYW1lPSJjb250YWN0cyIpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBwdXQoc2VsZiwgcmVxdWVzdCk6CiAgICAgICAgcmV0dXJuIEh0dHBSZXNwb25zZSgidGhpcyBpcyBjb250YWN0cyBQVVQiKQoK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3832,16 +3851,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gSHR0cFJlc3BvbnNlKCJ0aGlzIGlzIGNvbnRhY3RzIFBPU1QiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -3880,7 +3899,6 @@
         <entry>assertEquals</entry>
       </history-search>
       <history-cmd>
-        <entry>s,',&quot;,</entry>
         <entry>s,',&quot;,s</entry>
         <entry>s,',&quot;,g</entry>
         <entry>:w</entry>
@@ -3899,6 +3917,7 @@
         <entry encoding="base64">JzwsJz5zLG1vbnRoMSxkZWMxLA==</entry>
         <entry>'</entry>
         <entry>s,title,name,g</entry>
+        <entry>w!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -3934,6 +3953,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
